@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 void imprimirnumeros() {
-
-    for(int i= 1; i <= 100; i++) {
-        if (i==100) {
+    for (int i = 1; i <= 100; i++) {
+        if (i == 100) {
             printf("%d\n", i);
         } else {
             printf("%d, ", i);
