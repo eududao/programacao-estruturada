@@ -33,9 +33,12 @@ void imprimirmultiplosde3() {
 int main() {
     printf("Números de 1 a 100: ");
     imprimirnumeros();
+
     printf("Somatório dos ímpares entre 10 e 1000: ");
     somatorioimpares();
+
     printf("Múltiplos de 3 que não terminam em 3 entre 1 e 200: ");
     imprimirmultiplosde3();
+    
     return 0;
 }
