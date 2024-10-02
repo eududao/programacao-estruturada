@@ -1,3 +1,6 @@
+// Aluna: Maria Eduarda Veloso Maranhao
+// RA: 00000852149
+
 #include <stdio.h>
 #include <stdlib.h>
 
